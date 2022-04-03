@@ -1,0 +1,10 @@
+.DeckndQna {
+    width: 100vw;
+    height: 40vh;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 4vh;
+    border-radius: 5px;
+}

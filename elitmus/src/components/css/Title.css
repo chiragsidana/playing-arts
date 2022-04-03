@@ -1,0 +1,17 @@
+@import url(fontMaster.css);
+
+
+.Title {
+    width: 100vw;
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: horizon;
+}
+
+.logo {
+    color: white;
+    font-size: 40px;
+}
